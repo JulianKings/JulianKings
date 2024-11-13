@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Julián Reyes Lahoz</h1>
 <h3 align="center">A mostly self-taught full stack developer from Spain</h3>
 
-- 🔭 I’m currently working on [Hotel Miranda](https://github.com/JulianKings/hotel-miranda-laravel)
+- 🔭 I’m currently working on [Cycling Fantasy](https://github.com/JulianKings/cycling-fantasy)
 
 - 🌱 I’m currently learning **Spring**
 
